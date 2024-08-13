@@ -7,4 +7,4 @@
 
 #### para que el proyecto funcione primero debes crear la BD e importar las tablas y ajustar la configuración de la conexión a BD MySQL.
 
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/login-con-php.png)
+![](https://github.com/adonjk/IMAGENES-DE-PROYECTOS/blob/master/PRUEBA-ENCRIPTADO.png)
